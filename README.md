@@ -30,7 +30,10 @@ The goal was to visualize air quality trends, pollutant levels, and identify the
 - Data storytelling and visualization design
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot]([screenshot.png](https://github.com/Sheetallalwani/Air-Quality-Analysis-India-PowerBI/blob/main/Screenshot-AQI_India.png))
+
+#Dataset 
+(https://www.kaggle.com/search?q=aqi+india+%22state%22)
 
 ## 📅 Last Updated
 Dashboard refresh date is dynamically displayed using `MAX()` of the date column in Power BI.
